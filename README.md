@@ -10,10 +10,10 @@ I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in In
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/friskaam">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=friskaam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=friskaam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/friskaam">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=friskaam&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=friskaam&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
 
