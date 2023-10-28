@@ -8,12 +8,15 @@ I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in In
 - ⚡ Fun fact: I love music🎶
 
 
-<p align="left">
-<a href="https://github.com/friskaam">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=friskaam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=friskaam&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/friskaam">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=friskaam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/friskaam">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=friskaam&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
+
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/friska-adisti-mahardini/" target="_blank">LinkedIn</a>
