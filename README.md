@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in Informatics with a strong passion for Web development and Data Analytics.
+I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in Informatics with a strong passion for Backend development and Data Analytics.
 
 - 🌱 I’m currently learning Backend development & Mobile development
 - 👯 I’m looking to collaborate on any projects
