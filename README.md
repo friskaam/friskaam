@@ -3,8 +3,8 @@
 I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in Informatics with a strong passion for Front-end, Back-end development and Data Analytics.
 
 - 🌱 I’m currently learning Backend development & Mobile development
-- 🔭 I’m currently studying at Universitas Wijaya Kusuma Surabaya majoring in Informatics
 - 👯 Very looking to collaborate on any projects
+- 🔭 I’m currently studying at Universitas Wijaya Kusuma Surabaya majoring in Informatics
 - ⚡ Fun fact: I love music🎶
 
 
