@@ -3,8 +3,8 @@
 I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in Informatics with a strong passion for Front-end, Back-end development and Data Analytics.
 
 - 🌱 I’m currently learning Backend development & Mobile development
-- 👯 I’m looking to collaborate on any projects
 - 🔭 I’m currently studying at Universitas Wijaya Kusuma Surabaya majoring in Informatics
+- 👯 Very looking to collaborate on any projects
 - ⚡ Fun fact: I love music🎶
 
 
@@ -16,7 +16,7 @@ I am a second year student at Universitas Wijaya Kusuma Surabaya, majoring in In
 </div>
 
 
-### Reach me on
+### Feel free to reach me on
 - <a href="https://www.linkedin.com/in/friska-adisti-mahardini/" target="_blank">LinkedIn</a>
 - friskamahardini@gmail.com
 - <a href="https://instagram.com/friskaaam" target="_blank">Instagram</a>
