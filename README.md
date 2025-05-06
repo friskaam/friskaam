@@ -17,7 +17,7 @@ I'm passionate about **Full-Stack Development** and **Data Analytics**, and I lo
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,dart,nextjs,express,react,flutter,nodejs,laravel,gcp,bigquery,supabase,tailwind,bootstrap,mysql,postgres,python,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,dart,nextjs,express,react,flutter,nodejs,laravel,gcp,bigquery,supabase,tailwind,bootstrap,mysql,postgres,python,figma,adobe,photoshop,illustrator" />
 </p>
 
 ---
