@@ -14,28 +14,39 @@ I'm passionate about **Full-Stack Development** and **Data Analytics**, and I lo
 
 ---
 
-### 🛠️ Tech Stack
+### 📬 Let's Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,dart,py,nextjs,express,react,flutter,nodejs,laravel,jquery,mysql,postgres,gcp,supabase,tailwind,bootstrap,postman,figma,illustrator,ps" />
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/friska-adisti-mahardini/)
+- 📧 [Email: friskamahardini@gmail.com](mailto:friskamahardini@gmail.com)
+- 📷 [Instagram](https://instagram.com/friskaaam)
+
+---
+
+### 🛠️ Skills
+
+#### 👩‍💻 Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=js,ts,php,c,dart,py)
+
+#### 🎨 Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,jquery)
+
+#### 🔧 Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,laravel)
+
+#### 🗄️ Databases & Cloud
+![Database & Cloud](https://skillicons.dev/icons?i=mysql,postgres,gcp,firebase,supabase)
+
+#### 🧰 Other Tools & Design
+![Other Tools](https://skillicons.dev/icons?i=git,github,vercel,postman,figma,illustrator,ps)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=friskaam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=friskaam&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=friskaam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=friskaam&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
----
-
-### 📬 Let's Connect
-
-- 💼 <a href="https://www.linkedin.com/in/friska-adisti-mahardini/" target="_blank">LinkedIn</a>
-- 📧 <a href="mailto:friskamahardini@gmail.com" target="_blank">friskamahardini@gmail.com</a>
-- 📷 <a href="https://instagram.com/friskaaam" target="_blank">Instagram</a>
 
 ---
 
