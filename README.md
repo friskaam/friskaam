@@ -28,16 +28,16 @@ Passionate about creating digital solutions that make a real difference. Whether
 ![Programming Languages](https://skillicons.dev/icons?i=js,ts,php,c,dart,py)
 
 #### 🎨 Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,jquery)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,flutter,jquery)
 
 #### 🔧 Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,laravel)
 
 #### 🗄️ Databases & Cloud
-![Database & Cloud](https://skillicons.dev/icons?i=mysql,postgres,gcp,firebase,supabase)
+![Database & Cloud](https://skillicons.dev/icons?i=mysql,postgres,gcp,firebase,supabase,prisma)
 
 #### 🧰 Other Tools & Design
-![Other Tools](https://skillicons.dev/icons?i=git,github,vercel,postman,figma,illustrator,ps)
+![Other Tools](https://skillicons.dev/icons?i=git,github,vercel,postman,notion,figma,illustrator,ps)
 
 ---
 
