@@ -1,15 +1,16 @@
 <h1 align="center">Hi there! 👋 I'm Friska Mahardini</h1>
 <h3 align="center">🚀 Software Engineer | Lifelong Learner</h3>
 
-Passionate about creating digital solutions that make a real difference. Whether it’s through **Full-Stack Development** or **Data Analytics**, I enjoy building digital experiences that solve real-world problems. Always learning, experimenting with new technologies, and looking for opportunities to collaborate on projects that have a meaningful impact.
+Passionate about creating digital solutions that make a meaningful impact. I enjoy turning ideas into scalable and practical products, while continuously learning and exploring new technologies along the way!
 
 ---
 
 ### 💡 About Me
 
-- 🌱 Currently learning **Backend** and **Mobile Development**
-- 🤝 Always open to working on **real-world applications** and contributing to **open-source**
-- 🔍 Interested in how **software engineering**, **data**, and **design** come together to solve real problems
+- 🌱 Currently learning **backend development** and **machine learning**
+- 🛠️ Love building practical, real-world applications that people can actually use
+- 🤝 Always open to collaborating on **impactful projects** or contributing to **open-source**
+- 🔍 Interested in how **software engineering**, **data**, and **design** come together to create meaningful solutions
 - 🎵 Fun fact: I code best with music — it keeps me focused and fuels my creativity 🖤💗
 
 ---
